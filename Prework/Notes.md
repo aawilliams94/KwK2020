@@ -7,7 +7,7 @@ The following terms appeared in a lesson as important vocabulary.
 * **double**:  
 * **integer**:  
 * **interpolation**: including variable information in an output
-*  
+  * ![Interpolation](Photos/Interpolation.png)
 * **keyword**: special reserved words in a language  
 * **string**: a series of characters between two double quote marks 
   * "hello!"
