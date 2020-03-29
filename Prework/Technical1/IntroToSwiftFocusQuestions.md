@@ -14,3 +14,5 @@ Swift is a programming language developed by Apple for writing apps used on iOS 
 **Floats**: numbers that are rounded, cannot be combined with a double
 
 ## What is interpolation?
+
+Interpolation is a way to create a new string with information from variables and constants.
