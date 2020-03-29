@@ -1,4 +1,9 @@
-# Technical Vocabulary
+# Notes
+
+This document is where I will be typing my notes as I do the pre-work for this summer's Swift curriculum.
+
+
+## Technical Vocabulary
 
 The following terms appeared in a lesson as important vocabulary.
 
