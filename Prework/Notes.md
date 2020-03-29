@@ -1,4 +1,4 @@
-# Key Terms
+# Technical Vocabulary
 
 The following terms appeared in a lesson as important vocabulary.
 
