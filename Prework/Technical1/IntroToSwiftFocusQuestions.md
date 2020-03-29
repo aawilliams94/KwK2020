@@ -10,7 +10,7 @@ Swift is a programming language developed by Apple for writing apps used on iOS 
 
 ## What are two data types?
 
-**Doubles**: 
-**Floats**: numbers that are rounded
+**Doubles**: a number that has a decimal, cannot be combined with an integer/float
+**Floats**: numbers that are rounded, cannot be combined with a double
 
 ## What is interpolation?

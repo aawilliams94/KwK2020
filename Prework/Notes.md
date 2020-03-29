@@ -23,17 +23,16 @@ The following terms appeared in a lesson as important vocabulary.
 
 ## Commands
 
-| Command                     | Function                                                 | Note(s)                             |
-| --------------------------- | -------------------------------------------------------- | ----------------------------------- |
-| `print ()`                  | prints to the console                                    |                                     |
-| `\()`                       | used to interpolate variable information in an output    |                                     |
-| `var [name of variable] = ` | sets a variable equal to something                       |                                     |
-| `let [name of constant] = ` | sets a constant (unchanging variable) equal to something |                                     |
-| `==`                        | comparison operator - equal                              | boolean - will return a true/false  |
-| `!=`                        | comparison operator - not equal                          | boolean - will return a true/false  |
-| `>=`                        | comparison operator - greater than or equal to           | boolean - will return a true/false  |
-| `<=`                        | comparison operator - less than or equal to              | boolean -  will return a true/false |
-| `%`                         | finds the remainder of two numbers when they are divided |                                     |
-| `>`                         | comparison operator - greater than                       | boolean -  will return a true/false |
-| `<`                         | comparison operator - less than                          | boolean - will return a true/ false |
-|                             |                                                          |                                     |
+| Command                    | Function                                                 | Note(s)                             |
+| -------------------------- | -------------------------------------------------------- | ----------------------------------- |
+| `!=`                       | comparison operator - not equal                          | boolean - will return a true/false  |
+| `%`                        | finds the remainder of two numbers when they are divided |                                     |
+| `<=`                       | comparison operator - less than or equal to              | boolean - will return a true/false  |
+| `<`                        | comparison operator - less than                          | boolean - will return a true/ false |
+| `==`                       | comparison operator - equal                              | boolean - will return a true/false  |
+| `>=`                       | comparison operator - greater than or equal to           | boolean - will return a true/false  |
+| `>`                        | comparison operator - greater than                       | boolean - will return a true/false  |
+| `\()`                      | used to interpolate variable information in an output    |                                     |
+| `let [name of constant] =` | sets a constant (unchanging variable) equal to something |                                     |
+| `print ()`                 | prints to the console                                    |                                     |
+| `var [name of variable] =` | sets a variable equal to something                       |                                     |
