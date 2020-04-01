@@ -20,6 +20,19 @@ The following terms appeared in a lesson as important vocabulary.
 	* `"hello!"`
 * **variable**: defined by `var` followed by the name of the variable and what the variable is
 	* `var name = "Ashanti"`
+* **argument**:When you call a function that has an argument, it means that the function needs some sort of value to run. For example I created the following function and the argument here is the Int after numberOfPencils.
+	* ```
+func colorPencils(numberOfPencils : Int) {
+  print("I have \(numberOfPencils) colored pencils.")
+}
+  ```
+* **call/run**: telling a function to do its specific job
+* **declare**: assigning a function a specific ob
+* **function**: an action in the code
+* **parameter**: parameters are the information located in the parenthesis immediately following the name of a function
+* **return value**: the value that is the result of a function being run. It is stored for use later on in the code.
+
+
 
 ## Commands
 
@@ -36,3 +49,5 @@ The following terms appeared in a lesson as important vocabulary.
 | `let [name of constant] =` | sets a constant (unchanging variable) equal to something |                                     |
 | `print ()`                 | prints to the console                                    |                                     |
 | `var [name of variable] =` | sets a variable equal to something                       |                                     |
+| `func`                     | declares a function                                      |                                     |
+| `print()`                           |  prints somthing to the console                                                         |                                     |
