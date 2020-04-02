@@ -21,11 +21,7 @@ The following terms appeared in a lesson as important vocabulary.
 * **variable**: defined by `var` followed by the name of the variable and what the variable is
 	* `var name = "Ashanti"`
 * **argument**:When you call a function that has an argument, it means that the function needs some sort of value to run. For example I created the following function and the argument here is the Int after numberOfPencils.
-	* ```
-func colorPencils(numberOfPencils : Int) {
-  print("I have \(numberOfPencils) colored pencils.")
-}
-  ```
+	* `func colorPencils(numberOfPencils : Int) {...`
 * **call/run**: telling a function to do its specific job
 * **declare**: assigning a function a specific ob
 * **function**: an action in the code
