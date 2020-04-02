@@ -50,4 +50,4 @@ func colorPencils(numberOfPencils : Int) {
 | `print ()`                 | prints to the console                                    |                                     |
 | `var [name of variable] =` | sets a variable equal to something                       |                                     |
 | `func`                     | declares a function                                      |                                     |
-| `print()`                           |  prints somthing to the console                                                         |                                     |
+| `print()`                           |  prints something to the console                                                         |                                     |
