@@ -45,15 +45,15 @@ The following terms appeared in a lesson as important vocabulary.
 | `==`                           | comparison operator - equal                                                       | boolean - will return a true/false                         |
 | `>=`                           | comparison operator - greater than or equal to                                    | boolean - will return a true/false                         |
 | `>`                            | comparison operator - greater than                                                | boolean - will return a true/false                         |
+| `Int.random()`                 | picks a random number                                                             | can be used to pick a random item in an array              |
 | `\()`                          | used to interpolate variable information in an output                             |                                                            |
-| `let [name of constant] =`     | sets a constant (unchanging variable) equal to something                          |                                                            |
-| `print ()`                     | prints to the console                                                             |                                                            |
-| `var [name of variable] =`     | sets a variable equal to something                                                |                                                            |
 | `func`                         | declares a function                                                               |                                                            |
+| `let [name of constant] =`     | sets a constant (unchanging variable) equal to something                          |                                                            |
+| `nameOfArray.append()`         | adds something to an already existing array                                       |                                                            |
+| `nameOfArray.count`            | returns the number of elements stored in a particular array                       |                                                            |
+| `nameOfArray.remove(at: #)`    | replace the # with the index number of whatever you want to remove from the array |                                                            |
+| `print ()`                     | prints to the console                                                             |                                                            |
 | `print()`                      | prints something to the console                                                   |                                                            |
 | `return`                       | returns a value from a function; also terminates the function                     |                                                            |
+| `var [name of variable] =`     | sets a variable equal to something                                                |                                                            |
 | `var nameOfArray = [String]()` | initializes an empty array that will contain strings                              | can replace `[String]` with whatever you want in the array |
-| `nameOfArray.count`            | returns the number of elements stored in a particular array                       |                                                            |
-| `nameOfArray.append()`         | adds something to an already existing array                                       |                                                            |
-| `nameOfArray.remove(at: #)`    | replace the # with the index number of whatever you want to remove from the array |                                                            |
-| `Int.random()`                               | picks a random number                                                                                  |  can be used to pick a random item in an array                                                          |
