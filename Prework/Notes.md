@@ -33,6 +33,8 @@ The following terms appeared in a lesson as important vocabulary.
 	* `var name = "Ashanti"`
 
 
+---
+
 ## Git
 
 ### Pushing to Git
@@ -50,6 +52,8 @@ The following terms appeared in a lesson as important vocabulary.
 	* `git checkout nameOfBranch` - moves you to a different branch
 	* `git merge nameOfNonMasterBranch` - will merge the master branch (assuming you are in the master branch) with the changes created in a different branch
 	* `git branch -d nameOfBranch` - deletes a branch
+
+---
 
 ## Commands
 
