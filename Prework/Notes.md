@@ -33,6 +33,23 @@ The following terms appeared in a lesson as important vocabulary.
 	* `var name = "Ashanti"`
 
 
+## Git
+
+### Pushing to Git
+
+1. `git status` - check to see what files have changed
+2. `git add .` - adds changes to the directory
+3. `git status` - checks to make sure the files you added were staged (should turn green in terminal)
+4. `git commit -m "Some Message"` - adds a commit message
+5. `git push` - pushes the changes to github
+
+### Things to Remember
+
+* **branches** - sometimes it's better to work on a different branch outside of the master branch
+	* `git checkout -b nameOfBranch` - creates a new branch
+	* `git checkout nameOfBranch` - moves you to a different branch
+	* `git merge nameOfNonMasterBranch` - will merge the master branch (assuming you are in the master branch) with the changes created in a different branch
+	* `git branch -d nameOfBranch` - deletes a branch
 
 ## Commands
 
