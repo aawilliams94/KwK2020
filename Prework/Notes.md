@@ -35,6 +35,7 @@ The following terms appeared in a lesson as important vocabulary.
 * **dictionary**: dictionaries are ways to hold data that needs to be associated with another piece of data; think a word with its definition
 * **key/value pair**: the key is the word and the value is the definition; key is the label and value is the data
 * **unwrap**: unwrapping tells Swift that you are sure there is data present in a dictionary and you want that data returned
+* **loop**: when code runs through multiple iterations of itself
 
 
 
@@ -84,4 +85,4 @@ The following terms appeared in a lesson as important vocabulary.
 | `print(nameOfDictionary["keyInDictionary"]!)`     | prints the value associated with the key you selected                             | the `!` is used to unwrap the value, if it is left off, the data will print with an optiona |
 | `nameOfDictionary.removeValueForKey("nameofKey")` | removes a specific key from a dictionary                                          |                                                                                             |
 | `nameOfDictionary["new key"] = "newValue"`        | adds a new key-value pair to a dictionary                                         |                                                                                             |
-|                                                   |                                                                                   |                                                                                             |
+| `for...in`                                                | a loop that will run code a specific number of times, can be used to iterate over a collection                                                                                  |                                                                                             |
