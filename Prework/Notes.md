@@ -31,9 +31,12 @@ The following terms appeared in a lesson as important vocabulary.
 	* `"hello!"`
 * **variable**: defined by `var` followed by the name of the variable and what the variable is
 	* `var name = "Ashanti"`
+* **collection**: a way to hold multiple pieces of data
+* **dictionary**: dictionaries are ways to hold data that needs to be associated with another piece of data; think a word with its definition
+* **key/value pair**: the key is the word and the value is the definition; key is the label and value is the data
+* **unwrap**: unwrapping tells Swift that you are sure there is data present in a dictionary and you want that data returned
 
 
----
 
 ## Git
 
@@ -52,29 +55,33 @@ The following terms appeared in a lesson as important vocabulary.
 	* `git checkout nameOfBranch` - moves you to a different branch
 	* `git merge nameOfNonMasterBranch` - will merge the master branch (assuming you are in the master branch) with the changes created in a different branch
 	* `git branch -d nameOfBranch` - deletes a branch
+* the git status in between steps aren't necessary but they are nice to look at every now and again. they can save you from making mistakes and pushing something on the master that you didn't intend to or force you to save something that didn't save for a  certain commit
 
----
 
 ## Commands
 
-| Command                        | Function                                                                          | Note(s)                                                    |
-| ------------------------------ | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| `!=`                           | comparison operator - not equal                                                   | boolean - will return a true/false                         |
-| `%`                            | finds the remainder of two numbers when they are divided                          |                                                            |
-| `<=`                           | comparison operator - less than or equal to                                       | boolean - will return a true/false                         |
-| `<`                            | comparison operator - less than                                                   | boolean - will return a true/ false                        |
-| `==`                           | comparison operator - equal                                                       | boolean - will return a true/false                         |
-| `>=`                           | comparison operator - greater than or equal to                                    | boolean - will return a true/false                         |
-| `>`                            | comparison operator - greater than                                                | boolean - will return a true/false                         |
-| `Int.random()`                 | picks a random number                                                             | can be used to pick a random item in an array              |
-| `\()`                          | used to interpolate variable information in an output                             |                                                            |
-| `func`                         | declares a function                                                               |                                                            |
-| `let [name of constant] =`     | sets a constant (unchanging variable) equal to something                          |                                                            |
-| `nameOfArray.append()`         | adds something to an already existing array                                       |                                                            |
-| `nameOfArray.count`            | returns the number of elements stored in a particular array                       |                                                            |
-| `nameOfArray.remove(at: #)`    | replace the # with the index number of whatever you want to remove from the array |                                                            |
-| `print ()`                     | prints to the console                                                             |                                                            |
-| `print()`                      | prints something to the console                                                   |                                                            |
-| `return`                       | returns a value from a function; also terminates the function                     |                                                            |
-| `var [name of variable] =`     | sets a variable equal to something                                                |                                                            |
-| `var nameOfArray = [String]()` | initializes an empty array that will contain strings                              | can replace `[String]` with whatever you want in the array |
+| Command                                           | Function                                                                          | Note(s)                                                                                     |
+| ------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| `!=`                                              | comparison operator - not equal                                                   | boolean - will return a true/false                                                          |
+| `%`                                               | finds the remainder of two numbers when they are divided                          |                                                                                             |
+| `<=`                                              | comparison operator - less than or equal to                                       | boolean - will return a true/false                                                          |
+| `<`                                               | comparison operator - less than                                                   | boolean - will return a true/ false                                                         |
+| `==`                                              | comparison operator - equal                                                       | boolean - will return a true/false                                                          |
+| `>=`                                              | comparison operator - greater than or equal to                                    | boolean - will return a true/false                                                          |
+| `>`                                               | comparison operator - greater than                                                | boolean - will return a true/false                                                          |
+| `Int.random()`                                    | picks a random number                                                             | can be used to pick a random item in an array                                               |
+| `\()`                                             | used to interpolate variable information in an output                             |                                                                                             |
+| `func`                                            | declares a function                                                               |                                                                                             |
+| `let [name of constant] =`                        | sets a constant (unchanging variable) equal to something                          |                                                                                             |
+| `nameOfArray.append()`                            | adds something to an already existing array                                       |                                                                                             |
+| `nameOfArray.count`                               | returns the number of elements stored in a particular array                       |                                                                                             |
+| `nameOfArray.remove(at: #)`                       | replace the # with the index number of whatever you want to remove from the array |                                                                                             |
+| `print()`                                         | prints something to the console                                                   |                                                                                             |
+| `return`                                          | returns a value from a function; also terminates the function                     |                                                                                             |
+| `var [name of variable] =`                        | sets a variable equal to something                                                |                                                                                             |
+| `var nameOfArray = [String]()`                    | initializes an empty array that will contain strings                              | can replace `[String]` with whatever you want in the array                                  |
+| `var nameOfDictionary : [String : String] = [:]`  | initializes an empty dictionary                                                   | can replace `String : String` with whatever you want in the dictionary                      |
+| `print(nameOfDictionary["keyInDictionary"]!)`     | prints the value associated with the key you selected                             | the `!` is used to unwrap the value, if it is left off, the data will print with an optiona |
+| `nameOfDictionary.removeValueForKey("nameofKey")` | removes a specific key from a dictionary                                          |                                                                                             |
+| `nameOfDictionary["new key"] = "newValue"`        | adds a new key-value pair to a dictionary                                         |                                                                                             |
+|                                                   |                                                                                   |                                                                                             |
