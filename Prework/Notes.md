@@ -13,9 +13,11 @@ The following terms appeared in a lesson as important vocabulary.
 * **call/run**: telling a function to do its specific job
 * **camelCase**: when a variable is named something that is multiple words, lowercase for the first word and capitalize the first letter of the following word(s)
 	* var **lastName** = "Williams"
+* **collection**: a way to hold multiple pieces of data
 * **constant**:  defined by `let` a constant is a variable that will never change
 	* `let firstName = "Ashanti"`
 * **declare**: assigning a function a specific ob
+* **dictionary**: dictionaries are ways to hold data that needs to be associated with another piece of data; think a word with its definition
 * **double**:  a number that has a decimal, cannot be combined with an integer/float
 * **element**: numbers, strings, arrays, etc; whatever the array holds
 * **function**: an action in the code
@@ -24,18 +26,17 @@ The following terms appeared in a lesson as important vocabulary.
 * **integer**:  a number without a decimal, cannot be combined with a double (sometimes referred to as a float)
 * **interpolation**: including variable information in an output
 	* ![Interpolation](Photos/Interpolation.png)
+* **key/value pair**: the key is the word and the value is the definition; key is the label and value is the data
 * **keyword**: special reserved words in a language  
+* **loop**: when code runs through multiple iterations of itself
 * **parameter**: parameters are the information located in the parenthesis immediately following the name of a function
 * **return value**: the value that is the result of a function being run. It is stored for use later on in the code.
 * **string**: a series of characters between two double quote marks
 	* `"hello!"`
+* **unwrap**: unwrapping tells Swift that you are sure there is data present in a dictionary and you want that data returned
 * **variable**: defined by `var` followed by the name of the variable and what the variable is
 	* `var name = "Ashanti"`
-* **collection**: a way to hold multiple pieces of data
-* **dictionary**: dictionaries are ways to hold data that needs to be associated with another piece of data; think a word with its definition
-* **key/value pair**: the key is the word and the value is the definition; key is the label and value is the data
-* **unwrap**: unwrapping tells Swift that you are sure there is data present in a dictionary and you want that data returned
-* **loop**: when code runs through multiple iterations of itself
+
 
 
 
