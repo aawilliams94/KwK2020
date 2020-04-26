@@ -36,6 +36,11 @@ The following terms appeared in a lesson as important vocabulary.
 * **unwrap**: unwrapping tells Swift that you are sure there is data present in a dictionary and you want that data returned
 * **variable**: defined by `var` followed by the name of the variable and what the variable is
 	* `var name = "Ashanti"`
+* **class**: a chunk of code that can hold data and functions; they are a mold that a manufacture uses to produce a product
+* **object**: the products created by the mold of the code
+* **initializer**: a special function inside of a class called by using `init`, it creates the object or a product using the mold of the class
+* **property**: the specifics that form the mold of the class
+* **actions**: functions associated with a class
 
 
 
@@ -62,7 +67,7 @@ The following terms appeared in a lesson as important vocabulary.
 
 ## Commands
 | Command                                           | Function                                                                                       | Note(s)                                                                                     |
-|---------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| ------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | `!=`                                              | comparison operator - not equal                                                                | boolean - will return a true/false                                                          |
 | `%`                                               | finds the remainder of two numbers when they are divided                                       |                                                                                             |
 | `<=`                                              | comparison operator - less than or equal to                                                    | boolean - will return a true/false                                                          |
@@ -86,3 +91,6 @@ The following terms appeared in a lesson as important vocabulary.
 | `var [name of variable] =`                        | sets a variable equal to something                                                             |                                                                                             |
 | `var nameOfArray = [String]()`                    | initializes an empty array that will contain strings                                           | can replace `[String]` with whatever you want in the array                                  |
 | `var nameOfDictionary : [String : String] = [:]`  | initializes an empty dictionary                                                                | can replace `String : String` with whatever you want in the dictionary                      |
+| `class`                                           | starts a class                                                                                 |                                                                                             |
+| `init`                                                  | creates a mold                                                                                                  |                                                                                             |
+|                                                   |                                                                                                |                                                                                             |
