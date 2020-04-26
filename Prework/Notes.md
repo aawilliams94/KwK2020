@@ -41,6 +41,7 @@ The following terms appeared in a lesson as important vocabulary.
 * **initializer**: a special function inside of a class called by using `init`, it creates the object or a product using the mold of the class
 * **property**: the specifics that form the mold of the class
 * **actions**: functions associated with a class
+* 
 
 
 
@@ -77,8 +78,10 @@ The following terms appeared in a lesson as important vocabulary.
 | `>`                                               | comparison operator - greater than                                                             | boolean - will return a true/false                                                          |
 | `Int.random()`                                    | picks a random number                                                                          | can be used to pick a random item in an array                                               |
 | `\()`                                             | used to interpolate variable information in an output                                          |                                                                                             |
+| `class`                                           | starts a class                                                                                 |                                                                                             |
 | `for...in`                                        | a loop that will run code a specific number of times, can be used to iterate over a collection |                                                                                             |
 | `func`                                            | declares a function                                                                            |                                                                                             |
+| `init`                                            | creates a mold                                                                                 |                                                                                             |
 | `let [name of constant] =`                        | sets a constant (unchanging variable) equal to something                                       |                                                                                             |
 | `nameOfArray.append()`                            | adds something to an already existing array                                                    |                                                                                             |
 | `nameOfArray.count`                               | returns the number of elements stored in a particular array                                    |                                                                                             |
@@ -91,6 +94,3 @@ The following terms appeared in a lesson as important vocabulary.
 | `var [name of variable] =`                        | sets a variable equal to something                                                             |                                                                                             |
 | `var nameOfArray = [String]()`                    | initializes an empty array that will contain strings                                           | can replace `[String]` with whatever you want in the array                                  |
 | `var nameOfDictionary : [String : String] = [:]`  | initializes an empty dictionary                                                                | can replace `String : String` with whatever you want in the dictionary                      |
-| `class`                                           | starts a class                                                                                 |                                                                                             |
-| `init`                                                  | creates a mold                                                                                                  |                                                                                             |
-|                                                   |                                                                                                |                                                                                             |
