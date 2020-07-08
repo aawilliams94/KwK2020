@@ -26,8 +26,12 @@ class ViewController: UIViewController {
         if let newTitleTwo = textFieldTwo.text {
             appTitle2.text = newTitleTwo
         }
-        //the code on line 30 will give a popup alert
+        //the code on line 30 is what is used to create a popup alert
         let alertController = UIAlertController(title: "Thanks for pushing the button", message: "you da best", preferredStyle: UIAlertController.Style.alert)
+        //line 32 will give users a button to push that makes the alert go away
+        alertController.addAction(UIAlertAction(title: "Thanks!!", style: UIAlertAction.Style.default, handler: nil))
+        //line 34 makes the alert actually show up
+        present(alertController, animated: true, completion: nil)
     }
     
     
