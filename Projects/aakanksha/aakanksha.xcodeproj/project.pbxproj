@@ -7,31 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FF041A0A248928250097E03A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF041A09248928250097E03A /* AppDelegate.swift */; };
-		FF041A0C248928250097E03A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF041A0B248928250097E03A /* SceneDelegate.swift */; };
-		FF041A0E248928250097E03A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF041A0D248928250097E03A /* ViewController.swift */; };
-		FF041A11248928250097E03A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF041A0F248928250097E03A /* Main.storyboard */; };
-		FF041A14248928250097E03A /* button_push.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FF041A12248928250097E03A /* button_push.xcdatamodeld */; };
-		FF041A162489282C0097E03A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF041A152489282C0097E03A /* Assets.xcassets */; };
-		FF041A192489282C0097E03A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF041A172489282C0097E03A /* LaunchScreen.storyboard */; };
-		FF260CB324B791D9007FDF6F /* AboutMeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF260CB224B791D9007FDF6F /* AboutMeViewController.swift */; };
+		FF73FF2D24B6757300518D2E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF73FF2C24B6757300518D2E /* AppDelegate.swift */; };
+		FF73FF2F24B6757300518D2E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF73FF2E24B6757300518D2E /* SceneDelegate.swift */; };
+		FF73FF3124B6757300518D2E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF73FF3024B6757300518D2E /* ViewController.swift */; };
+		FF73FF3424B6757300518D2E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF73FF3224B6757300518D2E /* Main.storyboard */; };
+		FF73FF3624B6757600518D2E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF73FF3524B6757600518D2E /* Assets.xcassets */; };
+		FF73FF3924B6757600518D2E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF73FF3724B6757600518D2E /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FF041A06248928250097E03A /* button-push.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "button-push.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		FF041A09248928250097E03A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FF041A0B248928250097E03A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		FF041A0D248928250097E03A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		FF041A10248928250097E03A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		FF041A13248928250097E03A /* button_push.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = button_push.xcdatamodel; sourceTree = "<group>"; };
-		FF041A152489282C0097E03A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FF041A182489282C0097E03A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		FF041A1A2489282C0097E03A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FF260CB224B791D9007FDF6F /* AboutMeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutMeViewController.swift; sourceTree = "<group>"; };
+		FF73FF2924B6757300518D2E /* aakanksha.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = aakanksha.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF73FF2C24B6757300518D2E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FF73FF2E24B6757300518D2E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		FF73FF3024B6757300518D2E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FF73FF3324B6757300518D2E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FF73FF3524B6757600518D2E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FF73FF3824B6757600518D2E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FF73FF3A24B6757600518D2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		FF041A03248928250097E03A /* Frameworks */ = {
+		FF73FF2624B6757300518D2E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,74 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FF0419FD248928250097E03A = {
+		FF73FF2024B6757300518D2E = {
 			isa = PBXGroup;
 			children = (
-				FF041A08248928250097E03A /* button-push */,
-				FF041A07248928250097E03A /* Products */,
+				FF73FF2B24B6757300518D2E /* aakanksha */,
+				FF73FF2A24B6757300518D2E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		FF041A07248928250097E03A /* Products */ = {
+		FF73FF2A24B6757300518D2E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FF041A06248928250097E03A /* button-push.app */,
+				FF73FF2924B6757300518D2E /* aakanksha.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FF041A08248928250097E03A /* button-push */ = {
+		FF73FF2B24B6757300518D2E /* aakanksha */ = {
 			isa = PBXGroup;
 			children = (
-				FF041A09248928250097E03A /* AppDelegate.swift */,
-				FF041A0B248928250097E03A /* SceneDelegate.swift */,
-				FF041A0D248928250097E03A /* ViewController.swift */,
-				FF041A0F248928250097E03A /* Main.storyboard */,
-				FF260CB224B791D9007FDF6F /* AboutMeViewController.swift */,
-				FF041A152489282C0097E03A /* Assets.xcassets */,
-				FF041A172489282C0097E03A /* LaunchScreen.storyboard */,
-				FF041A1A2489282C0097E03A /* Info.plist */,
-				FF041A12248928250097E03A /* button_push.xcdatamodeld */,
+				FF73FF2C24B6757300518D2E /* AppDelegate.swift */,
+				FF73FF2E24B6757300518D2E /* SceneDelegate.swift */,
+				FF73FF3024B6757300518D2E /* ViewController.swift */,
+				FF73FF3224B6757300518D2E /* Main.storyboard */,
+				FF73FF3524B6757600518D2E /* Assets.xcassets */,
+				FF73FF3724B6757600518D2E /* LaunchScreen.storyboard */,
+				FF73FF3A24B6757600518D2E /* Info.plist */,
 			);
-			path = "button-push";
+			path = aakanksha;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FF041A05248928250097E03A /* button-push */ = {
+		FF73FF2824B6757300518D2E /* aakanksha */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FF041A1D2489282C0097E03A /* Build configuration list for PBXNativeTarget "button-push" */;
+			buildConfigurationList = FF73FF3D24B6757600518D2E /* Build configuration list for PBXNativeTarget "aakanksha" */;
 			buildPhases = (
-				FF041A02248928250097E03A /* Sources */,
-				FF041A03248928250097E03A /* Frameworks */,
-				FF041A04248928250097E03A /* Resources */,
+				FF73FF2524B6757300518D2E /* Sources */,
+				FF73FF2624B6757300518D2E /* Frameworks */,
+				FF73FF2724B6757300518D2E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "button-push";
-			productName = "button-push";
-			productReference = FF041A06248928250097E03A /* button-push.app */;
+			name = aakanksha;
+			productName = aakanksha;
+			productReference = FF73FF2924B6757300518D2E /* aakanksha.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		FF0419FE248928250097E03A /* Project object */ = {
+		FF73FF2124B6757300518D2E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1150;
 				LastUpgradeCheck = 1150;
 				ORGANIZATIONNAME = "Ashanti Williams";
 				TargetAttributes = {
-					FF041A05248928250097E03A = {
+					FF73FF2824B6757300518D2E = {
 						CreatedOnToolsVersion = 11.5;
 					};
 				};
 			};
-			buildConfigurationList = FF041A01248928250097E03A /* Build configuration list for PBXProject "button-push" */;
+			buildConfigurationList = FF73FF2424B6757300518D2E /* Build configuration list for PBXProject "aakanksha" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,57 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = FF0419FD248928250097E03A;
-			productRefGroup = FF041A07248928250097E03A /* Products */;
+			mainGroup = FF73FF2024B6757300518D2E;
+			productRefGroup = FF73FF2A24B6757300518D2E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FF041A05248928250097E03A /* button-push */,
+				FF73FF2824B6757300518D2E /* aakanksha */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		FF041A04248928250097E03A /* Resources */ = {
+		FF73FF2724B6757300518D2E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FF041A192489282C0097E03A /* LaunchScreen.storyboard in Resources */,
-				FF041A162489282C0097E03A /* Assets.xcassets in Resources */,
-				FF041A11248928250097E03A /* Main.storyboard in Resources */,
+				FF73FF3924B6757600518D2E /* LaunchScreen.storyboard in Resources */,
+				FF73FF3624B6757600518D2E /* Assets.xcassets in Resources */,
+				FF73FF3424B6757300518D2E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		FF041A02248928250097E03A /* Sources */ = {
+		FF73FF2524B6757300518D2E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FF041A0E248928250097E03A /* ViewController.swift in Sources */,
-				FF260CB324B791D9007FDF6F /* AboutMeViewController.swift in Sources */,
-				FF041A0A248928250097E03A /* AppDelegate.swift in Sources */,
-				FF041A0C248928250097E03A /* SceneDelegate.swift in Sources */,
-				FF041A14248928250097E03A /* button_push.xcdatamodeld in Sources */,
+				FF73FF3124B6757300518D2E /* ViewController.swift in Sources */,
+				FF73FF2D24B6757300518D2E /* AppDelegate.swift in Sources */,
+				FF73FF2F24B6757300518D2E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		FF041A0F248928250097E03A /* Main.storyboard */ = {
+		FF73FF3224B6757300518D2E /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FF041A10248928250097E03A /* Base */,
+				FF73FF3324B6757300518D2E /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		FF041A172489282C0097E03A /* LaunchScreen.storyboard */ = {
+		FF73FF3724B6757600518D2E /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FF041A182489282C0097E03A /* Base */,
+				FF73FF3824B6757600518D2E /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -174,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		FF041A1B2489282C0097E03A /* Debug */ = {
+		FF73FF3B24B6757600518D2E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -234,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		FF041A1C2489282C0097E03A /* Release */ = {
+		FF73FF3C24B6757600518D2E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -288,36 +280,36 @@
 			};
 			name = Release;
 		};
-		FF041A1E2489282C0097E03A /* Debug */ = {
+		FF73FF3E24B6757600518D2E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 79Q6363ZJD;
-				INFOPLIST_FILE = "button-push/Info.plist";
+				INFOPLIST_FILE = aakanksha/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "ashantiwill94.button-push";
+				PRODUCT_BUNDLE_IDENTIFIER = ashantiwill94.aakanksha;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		FF041A1F2489282C0097E03A /* Release */ = {
+		FF73FF3F24B6757600518D2E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 79Q6363ZJD;
-				INFOPLIST_FILE = "button-push/Info.plist";
+				INFOPLIST_FILE = aakanksha/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "ashantiwill94.button-push";
+				PRODUCT_BUNDLE_IDENTIFIER = ashantiwill94.aakanksha;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -327,38 +319,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FF041A01248928250097E03A /* Build configuration list for PBXProject "button-push" */ = {
+		FF73FF2424B6757300518D2E /* Build configuration list for PBXProject "aakanksha" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FF041A1B2489282C0097E03A /* Debug */,
-				FF041A1C2489282C0097E03A /* Release */,
+				FF73FF3B24B6757600518D2E /* Debug */,
+				FF73FF3C24B6757600518D2E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FF041A1D2489282C0097E03A /* Build configuration list for PBXNativeTarget "button-push" */ = {
+		FF73FF3D24B6757600518D2E /* Build configuration list for PBXNativeTarget "aakanksha" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FF041A1E2489282C0097E03A /* Debug */,
-				FF041A1F2489282C0097E03A /* Release */,
+				FF73FF3E24B6757600518D2E /* Debug */,
+				FF73FF3F24B6757600518D2E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCVersionGroup section */
-		FF041A12248928250097E03A /* button_push.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				FF041A13248928250097E03A /* button_push.xcdatamodel */,
-			);
-			currentVersion = FF041A13248928250097E03A /* button_push.xcdatamodel */;
-			path = button_push.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
-/* End XCVersionGroup section */
 	};
-	rootObject = FF0419FE248928250097E03A /* Project object */;
+	rootObject = FF73FF2124B6757300518D2E /* Project object */;
 }
